@@ -1,0 +1,5 @@
+[28-Nov-2020 07:09:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myexamplace/public_html/all_website/blackinklawfirm_new/wp-content/plugins/hello.php on line 69
+[28-Nov-2020 07:09:22 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myexamplace/public_html/all_website/blackinklawfirm_new/wp-content/plugins/hello.php on line 69
+[22-Aug-2022 03:34:44 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myexamplace/public_html/all_website/blackinklawfirm_new/wp-content/plugins/hello.php on line 69
+[22-Aug-2022 03:34:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myexamplace/public_html/all_website/blackinklawfirm_new/wp-content/plugins/hello.php on line 69
+[30-Aug-2022 10:42:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/myexamplace/public_html/all_website/blackinklawfirm_new/wp-content/plugins/hello.php on line 69
